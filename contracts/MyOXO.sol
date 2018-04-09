@@ -2,7 +2,6 @@ pragma solidity 0.4.15;
 
 contract MyOXO {
 
-// по аналогии с  https://github.com/Purka
 
 	address public dan;//игрок 1
 	address public kate;// игрок2
